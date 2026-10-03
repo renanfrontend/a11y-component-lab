@@ -1,5 +1,7 @@
 # A11y Lab
 
+🌐 **[Abrir demonstração / Live demo](https://renan-a11y-component-lab.renan-gabba.chatgpt.site)**
+
 Interfaces para todas as pessoas. Laboratório de contraste, tokens e componentes com navegação por teclado.
 
 Projeto autoral demonstrativo preparado para o portfólio de **Renan Augusto dos Santos**. Não possui backend, autenticação ou dados de produção.
