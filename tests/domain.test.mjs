@@ -1,0 +1,1 @@
+import {test} from 'node:test';import assert from 'node:assert/strict';import * as d from '../src/domain.js';test('Regras de domínio e casos de borda',()=>{assert.equal(d.contrast('#ffffff','#000000'),21);assert.equal(d.contrast('#123456','#123456'),1);assert.equal(d.contrast('#000000','#ffffff'),21);});
